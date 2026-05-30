@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200§ion=header&text=Shilpan%2… />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Shilpan%20&fontSize=70" />
 </p>
- 
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7¢er=true&… alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Open+Source+Contributor;Tech+Enthusiast;Building+with+Python" alt="Typing SVG" />
 </p>
  
 ---
